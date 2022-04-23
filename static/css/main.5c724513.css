@@ -1,16 +1,16 @@
 @font-face {
     font-family: Graphik;
-    src: url(./static/media/Graphik-Regular-42a9b773.42a9b7733ff5f4bc9df8.woff2)
+    src: url(../static/media/Graphik-Regular-42a9b773.42a9b7733ff5f4bc9df8.woff2)
 }
 
 @font-face {
     font-family: TrioGrotesk;
-    src: url(./static/media/TrioGrotesk-Medium-70b0d7eb.70b0d7eb261659580925.woff2)
+    src: url(../static/media/TrioGrotesk-Medium-70b0d7eb.70b0d7eb261659580925.woff2)
 }
 
 @font-face {
     font-family: RoslindaleDisplayCondensed;
-    src: url(./static/media/RoslindaleDisplayCondensed-Regular-d44cc8ae.d44cc8aeaedb5d991a2e.woff2)
+    src: url(../static/media/RoslindaleDisplayCondensed-Regular-d44cc8ae.d44cc8aeaedb5d991a2e.woff2)
 }
 
 *,
